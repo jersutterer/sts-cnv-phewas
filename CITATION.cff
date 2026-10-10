@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article."
+title: "STS copy number variants: PheWAS, LabWAS, and sex hormone analysis code"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Sutterer
+    given-names: Jeremy T
+    affiliation: Case Western Reserve University School of Medicine
+preferred-citation:
+  type: article
+  title: "Phenome- and laboratory-wide association study of steroid sulfatase copy number variants in 650,427 participants of the Million Veteran Program reveals multi-system features of X-linked ichthyosis"
+  journal: "eBioMedicine"
+  authors:
+    - family-names: Sutterer
+      given-names: Jeremy T
+    - family-names: Gorman
+      given-names: Bryan R
+    - family-names: Teerlink
+      given-names: Craig C
+    - name: "et al."
